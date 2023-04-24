@@ -2,6 +2,8 @@
 
 Computational neuroscientist and open-code enthusiast.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thadah&label=Profile%20views&color=0e75b6&style=flat" alt="morales-gregorio" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morales-gregorio" alt="morales-gregorio" /></a> </p>
 
 <!--
