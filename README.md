@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aitor Morales-Gregorio</h1>
+
+Computational neuroscientist and open-code enthusiast.
 
 <!--
 **morales-gregorio/morales-gregorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
