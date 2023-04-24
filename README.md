@@ -2,6 +2,8 @@
 
 Computational neuroscientist and open-code enthusiast.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=morales-gregorio" alt="morales-gregorio" /></a> </p>
+
 <!--
 **morales-gregorio/morales-gregorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
