@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aitor Morales-Gregorio</h1>
 
-Computational neuroscientist @ _Forschungszentrum Jülich_ and open-code enthusiast.
+Computational neuroscientist @ _Charles University_ and open-code enthusiast.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morales-gregorio&label=Profile%20views&color=0e75b6&style=flat" alt="morales-gregorio" /> </p>
 
